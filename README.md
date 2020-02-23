@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
-title: welcome to ralph's homepage
-decription: my first page
+welcome to ralp's homepage
 
 ### Markdown
 
